@@ -1,0 +1,13 @@
+print("_____== = Algorithme d'Euclide = ==_____")
+""" 
+   Soient (a , b) € NxN*.
+   Si a//b == q, et q>0:
+     tantque (q>0): 
+       q=q//b
+     fintantque
+   finsi
+
+
+
+"""
+
